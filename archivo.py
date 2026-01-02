@@ -1,5 +1,5 @@
 ##hola a todos
-nombre = "Pepe"
+nombre = "Eliitas"
 apellido = "Vivar"
 
 saludo = "Hola " + nombre + " " + apellido + " como estas? "
